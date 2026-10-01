@@ -1,4 +1,4 @@
-# DawnAurora Player Animations Bedrock Add-On
+# DawnAurora Players Animation Bedrock Add-On
 Player animation overhaul add-on for Minecraft Bedrock Edition
 
 ## About
